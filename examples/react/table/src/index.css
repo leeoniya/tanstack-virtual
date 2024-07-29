@@ -14,6 +14,17 @@ body {
 }
 
 .container {
-  height: 600px;
+  height: 1200px;
   overflow: auto;
+}
+
+table {
+  table-layout: fixed;
+}
+
+td {
+  font-family: 'Courier New', Courier, monospace;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
