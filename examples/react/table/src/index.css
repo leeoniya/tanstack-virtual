@@ -10,11 +10,11 @@ html {
 }
 
 body {
-  padding: 1rem;
+  margin: 0;
 }
 
 .container {
-  height: 1200px;
+  height: 1300px;
   overflow: auto;
 }
 

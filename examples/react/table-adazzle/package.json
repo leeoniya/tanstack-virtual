@@ -10,14 +10,14 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-data-grid": "^7.0.0-beta.44",
+    "react-data-grid": "^7.0.0-beta.47",
     "react-dom": "^18.3.1",
     "udsv": "github:leeoniya/uDSV"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.3.5"
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.8"
   }
 }
