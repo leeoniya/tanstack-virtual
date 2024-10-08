@@ -1,0 +1,30 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  height: 1300px;
+  overflow: auto;
+}
+
+table {
+  table-layout: fixed;
+}
+
+td {
+  font-family: 'Courier New', Courier, monospace;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
